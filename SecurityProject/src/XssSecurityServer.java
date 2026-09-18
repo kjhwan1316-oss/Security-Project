@@ -119,6 +119,7 @@ public class XssSecurityServer {
                     <html lang="ko">
                     <head>
                         <meta charset="UTF-8">
+                        
                         <title>리뷰 등록 결과</title>
                     </head>
                     <body>

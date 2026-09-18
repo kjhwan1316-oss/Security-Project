@@ -16,7 +16,7 @@
 !**/read.md
 !**/README.md
 !.gitignore
-
+!*.png
 
 # 4. 자바 폴더 안의 src 안의 .java 파일만 예외적으로 허용
 !**/src/*.java
